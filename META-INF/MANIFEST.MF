@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: JZLib
+Bundle-SymbolicName: com.jcraft.jzlib;singleton:=true
+Bundle-Version: 1.1.3
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-Vendor: JZLib
+Eclipse-BundleShape: dir
+Export-Package: com.jcraft.jzlib
